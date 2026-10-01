@@ -4,7 +4,7 @@
 
 using System.Runtime.CompilerServices;
 using System.Runtime.Intrinsics.Arm;
-
+using Luar.Tengah.Dalam;
 int x = 8;
 Console.WriteLine(x);
 Foo(x);
@@ -71,3 +71,6 @@ string cardName2 = (cardNumber) switch
 };
 
 Console.WriteLine("{0} {1}",cardName1,cardName2);
+
+//namespace
+DummyClass.ZaWarudo();
