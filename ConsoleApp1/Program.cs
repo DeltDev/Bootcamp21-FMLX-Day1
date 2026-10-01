@@ -42,6 +42,16 @@ Console.WriteLine("nilai variabel dengan nama using (reserved keyword) adalah {0
 var var = 18;
 Console.WriteLine("var var = {0}", var);
 
+
+//Literal tests
+int a = 0b10101;
+long b = 0x7F;
+int million = 1_000_000;
+
+Console.WriteLine("binary = {0}",a);
+Console.WriteLine("hexadecimal = {0}",b);
+Console.WriteLine("million = {0}",million);
+
 namespace TypeBasicsTest
 {
     public struct Vector3Struct {public double X,Y,Z;}
