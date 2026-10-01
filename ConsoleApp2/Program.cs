@@ -3,6 +3,7 @@
 //pass by value
 
 using System.Runtime.CompilerServices;
+using System.Runtime.Intrinsics.Arm;
 
 int x = 8;
 Console.WriteLine(x);
@@ -39,3 +40,12 @@ static void Foo3(out int y, out int z, out int a)
 }
 
 Console.WriteLine("{0} {1} {2}",y,z,a);
+
+
+//null operators
+string s1 = null;
+string s2 = s1 ?? "kebab";
+Console.WriteLine(s2);
+
+s1 ??= s2;
+Console.WriteLine("{0} {1}",s1,s2);
