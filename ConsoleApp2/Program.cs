@@ -26,15 +26,16 @@ static void Foo2(ref int x)
 }
 
 x = 8;
-int y,z;
+int y,z,a;
 y = 81;
 z = 800;
-Foo3(out y,out z);
-static void Foo3(out int y, out int z)
+a = 69;
+Foo3(out y,out z,out _);
+static void Foo3(out int y, out int z, out int a)
 {
     z = 70;
     y = 22;
-
+    a = 90;
 }
 
-Console.WriteLine("{0} {1}",y,z);
+Console.WriteLine("{0} {1} {2}",y,z,a);
