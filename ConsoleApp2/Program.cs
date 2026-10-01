@@ -49,3 +49,25 @@ Console.WriteLine(s2);
 
 s1 ??= s2;
 Console.WriteLine("{0} {1}",s1,s2);
+
+//switch keyword
+int cardNumber = 11;
+string cardName1 = (cardNumber) switch 
+{
+    13 => "King",
+    12 => "Queen",
+    11 => "Jack",
+    _ => "usual card"
+};
+
+cardNumber = 4;
+
+string cardName2 = (cardNumber) switch 
+{
+    13 => "King",
+    12 => "Queen",
+    11 => "Jack",
+    _ => "usual card"
+};
+
+Console.WriteLine("{0} {1}",cardName1,cardName2);
