@@ -5,6 +5,11 @@ namespace Luar.Tengah.Dalam
         public static void ZaWarudo()
         {
             Console.WriteLine("ROAD ROLLER DA!!");
+            Console.WriteLine("MUDAMUDAMUDAMUDAMUDA");
         }
     }
+}
+namespace Tengah.Dalam
+{
+    
 }
