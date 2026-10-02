@@ -266,3 +266,7 @@ int Sum(params int[] ints)
         sum += ints[i];
     return sum;
 }
+
+y = 5 * (x = 2);
+
+Console.WriteLine(y);
