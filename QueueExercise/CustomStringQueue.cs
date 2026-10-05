@@ -3,7 +3,6 @@ namespace QueueExercise;
 internal class CustomStringQueue
 {
     private string[] _arr;
-    private int _capacity;
     private int _size;
 
     public CustomStringQueue()
@@ -12,14 +11,12 @@ internal class CustomStringQueue
     }
     public CustomStringQueue(int capacity)
     {
-        this._capacity = capacity;
         _arr = new string[capacity];
-        _size = 0;
     }
 
     public void Enqueue(string item)
     {
-        if (_size == _capacity)
+        if (_size == _arr.Length)
         {
             GrowQueue(_size+1);
         }
@@ -68,7 +65,8 @@ internal class CustomStringQueue
     private void SetCapacity(int capacity)
     {
         string[] newArr = new string[capacity];
-        this._arr = newArr;
+        Array.Copy(_arr, newArr, _size);
+        _arr = newArr;
     }
     
 }

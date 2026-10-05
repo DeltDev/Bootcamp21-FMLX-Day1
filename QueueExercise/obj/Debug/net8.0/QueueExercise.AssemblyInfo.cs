@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QueueExercise")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+950ca04e5b1d7a2de8f4d8683fc98d25925be2ba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94793ce88eb988890386137897117dd9952b9dfe")]
 [assembly: System.Reflection.AssemblyProductAttribute("QueueExercise")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QueueExercise")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
