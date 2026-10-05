@@ -1,0 +1,15 @@
+C:\Users\akbaraf18\Documents\Project\StackExercise\bin\Debug\net8.0\StackExercise.exe
+C:\Users\akbaraf18\Documents\Project\StackExercise\bin\Debug\net8.0\StackExercise.deps.json
+C:\Users\akbaraf18\Documents\Project\StackExercise\bin\Debug\net8.0\StackExercise.runtimeconfig.json
+C:\Users\akbaraf18\Documents\Project\StackExercise\bin\Debug\net8.0\StackExercise.dll
+C:\Users\akbaraf18\Documents\Project\StackExercise\bin\Debug\net8.0\StackExercise.pdb
+C:\Users\akbaraf18\Documents\Project\StackExercise\obj\Debug\net8.0\StackExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akbaraf18\Documents\Project\StackExercise\obj\Debug\net8.0\StackExercise.AssemblyInfoInputs.cache
+C:\Users\akbaraf18\Documents\Project\StackExercise\obj\Debug\net8.0\StackExercise.AssemblyInfo.cs
+C:\Users\akbaraf18\Documents\Project\StackExercise\obj\Debug\net8.0\StackExercise.csproj.CoreCompileInputs.cache
+C:\Users\akbaraf18\Documents\Project\StackExercise\obj\Debug\net8.0\StackExercise.sourcelink.json
+C:\Users\akbaraf18\Documents\Project\StackExercise\obj\Debug\net8.0\StackExercise.dll
+C:\Users\akbaraf18\Documents\Project\StackExercise\obj\Debug\net8.0\refint\StackExercise.dll
+C:\Users\akbaraf18\Documents\Project\StackExercise\obj\Debug\net8.0\StackExercise.pdb
+C:\Users\akbaraf18\Documents\Project\StackExercise\obj\Debug\net8.0\StackExercise.genruntimeconfig.cache
+C:\Users\akbaraf18\Documents\Project\StackExercise\obj\Debug\net8.0\ref\StackExercise.dll
