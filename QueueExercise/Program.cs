@@ -1,5 +1,7 @@
 ﻿//Implementasi di bawah menggunakan built in Collection Queue<T>
 
+using QueueExercise;
+
 Queue<string> collectionQueue = new Queue<string>();
 
 void Enqueue(string text)
@@ -21,8 +23,20 @@ void Process()
     }
 }
 
+Console.WriteLine("Queue (menggunakan library Collection)");
 Enqueue("A");
 Enqueue("B");
 Process();
 Process();
 Process();
+
+Console.WriteLine();
+//Implementasi di bawah ini menggunakan CustomStringQueue
+
+Console.WriteLine("Queue (menggunakan class custom CustomStringQueue)");
+CustomStringQueue customStringQueue = new CustomStringQueue();
+customStringQueue.Enqueue("A");
+customStringQueue.Enqueue("B");
+customStringQueue.Process();
+customStringQueue.Process();
+customStringQueue.Process();
