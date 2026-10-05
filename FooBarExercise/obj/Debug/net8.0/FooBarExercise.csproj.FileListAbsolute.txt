@@ -1,0 +1,15 @@
+C:\Users\akbaraf18\Documents\Project\FooBarExercise\bin\Debug\net8.0\FooBarExercise.exe
+C:\Users\akbaraf18\Documents\Project\FooBarExercise\bin\Debug\net8.0\FooBarExercise.deps.json
+C:\Users\akbaraf18\Documents\Project\FooBarExercise\bin\Debug\net8.0\FooBarExercise.runtimeconfig.json
+C:\Users\akbaraf18\Documents\Project\FooBarExercise\bin\Debug\net8.0\FooBarExercise.dll
+C:\Users\akbaraf18\Documents\Project\FooBarExercise\bin\Debug\net8.0\FooBarExercise.pdb
+C:\Users\akbaraf18\Documents\Project\FooBarExercise\obj\Debug\net8.0\FooBarExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akbaraf18\Documents\Project\FooBarExercise\obj\Debug\net8.0\FooBarExercise.AssemblyInfoInputs.cache
+C:\Users\akbaraf18\Documents\Project\FooBarExercise\obj\Debug\net8.0\FooBarExercise.AssemblyInfo.cs
+C:\Users\akbaraf18\Documents\Project\FooBarExercise\obj\Debug\net8.0\FooBarExercise.csproj.CoreCompileInputs.cache
+C:\Users\akbaraf18\Documents\Project\FooBarExercise\obj\Debug\net8.0\FooBarExercise.sourcelink.json
+C:\Users\akbaraf18\Documents\Project\FooBarExercise\obj\Debug\net8.0\FooBarExercise.dll
+C:\Users\akbaraf18\Documents\Project\FooBarExercise\obj\Debug\net8.0\refint\FooBarExercise.dll
+C:\Users\akbaraf18\Documents\Project\FooBarExercise\obj\Debug\net8.0\FooBarExercise.pdb
+C:\Users\akbaraf18\Documents\Project\FooBarExercise\obj\Debug\net8.0\FooBarExercise.genruntimeconfig.cache
+C:\Users\akbaraf18\Documents\Project\FooBarExercise\obj\Debug\net8.0\ref\FooBarExercise.dll
