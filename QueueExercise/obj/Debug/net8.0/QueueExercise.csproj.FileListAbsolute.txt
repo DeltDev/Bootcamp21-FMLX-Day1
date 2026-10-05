@@ -1,0 +1,15 @@
+C:\Users\akbaraf18\Documents\Project\QueueExercise\bin\Debug\net8.0\QueueExercise.exe
+C:\Users\akbaraf18\Documents\Project\QueueExercise\bin\Debug\net8.0\QueueExercise.deps.json
+C:\Users\akbaraf18\Documents\Project\QueueExercise\bin\Debug\net8.0\QueueExercise.runtimeconfig.json
+C:\Users\akbaraf18\Documents\Project\QueueExercise\bin\Debug\net8.0\QueueExercise.dll
+C:\Users\akbaraf18\Documents\Project\QueueExercise\bin\Debug\net8.0\QueueExercise.pdb
+C:\Users\akbaraf18\Documents\Project\QueueExercise\obj\Debug\net8.0\QueueExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akbaraf18\Documents\Project\QueueExercise\obj\Debug\net8.0\QueueExercise.AssemblyInfoInputs.cache
+C:\Users\akbaraf18\Documents\Project\QueueExercise\obj\Debug\net8.0\QueueExercise.AssemblyInfo.cs
+C:\Users\akbaraf18\Documents\Project\QueueExercise\obj\Debug\net8.0\QueueExercise.csproj.CoreCompileInputs.cache
+C:\Users\akbaraf18\Documents\Project\QueueExercise\obj\Debug\net8.0\QueueExercise.sourcelink.json
+C:\Users\akbaraf18\Documents\Project\QueueExercise\obj\Debug\net8.0\QueueExercise.dll
+C:\Users\akbaraf18\Documents\Project\QueueExercise\obj\Debug\net8.0\refint\QueueExercise.dll
+C:\Users\akbaraf18\Documents\Project\QueueExercise\obj\Debug\net8.0\QueueExercise.pdb
+C:\Users\akbaraf18\Documents\Project\QueueExercise\obj\Debug\net8.0\QueueExercise.genruntimeconfig.cache
+C:\Users\akbaraf18\Documents\Project\QueueExercise\obj\Debug\net8.0\ref\QueueExercise.dll
