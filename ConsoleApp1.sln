@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackExercise", "StackExerc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListExercise", "LinkedListExercise\LinkedListExercise.csproj", "{84796F63-3EAC-4EB9-8837-911BABE1D970}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassExercise", "ClassExercise\ClassExercise.csproj", "{4C7FCE4A-2DE3-41BF-94AB-CB063B4A5DCB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{84796F63-3EAC-4EB9-8837-911BABE1D970}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84796F63-3EAC-4EB9-8837-911BABE1D970}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84796F63-3EAC-4EB9-8837-911BABE1D970}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C7FCE4A-2DE3-41BF-94AB-CB063B4A5DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C7FCE4A-2DE3-41BF-94AB-CB063B4A5DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C7FCE4A-2DE3-41BF-94AB-CB063B4A5DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C7FCE4A-2DE3-41BF-94AB-CB063B4A5DCB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
