@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassExercise", "ClassExerc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircularQueueExercise", "CircularQueueExercise\CircularQueueExercise.csproj", "{14B44F60-0B14-4F01-A8D9-EB7177B11841}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateExercise", "DelegateExercise\DelegateExercise.csproj", "{E650F02C-CE20-456E-904F-91D197107A6E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{14B44F60-0B14-4F01-A8D9-EB7177B11841}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14B44F60-0B14-4F01-A8D9-EB7177B11841}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14B44F60-0B14-4F01-A8D9-EB7177B11841}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E650F02C-CE20-456E-904F-91D197107A6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E650F02C-CE20-456E-904F-91D197107A6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E650F02C-CE20-456E-904F-91D197107A6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E650F02C-CE20-456E-904F-91D197107A6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
