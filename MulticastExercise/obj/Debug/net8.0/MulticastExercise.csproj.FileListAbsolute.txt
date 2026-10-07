@@ -1,0 +1,15 @@
+C:\Users\akbaraf18\Documents\Project\MulticastExercise\bin\Debug\net8.0\MulticastExercise.exe
+C:\Users\akbaraf18\Documents\Project\MulticastExercise\bin\Debug\net8.0\MulticastExercise.deps.json
+C:\Users\akbaraf18\Documents\Project\MulticastExercise\bin\Debug\net8.0\MulticastExercise.runtimeconfig.json
+C:\Users\akbaraf18\Documents\Project\MulticastExercise\bin\Debug\net8.0\MulticastExercise.dll
+C:\Users\akbaraf18\Documents\Project\MulticastExercise\bin\Debug\net8.0\MulticastExercise.pdb
+C:\Users\akbaraf18\Documents\Project\MulticastExercise\obj\Debug\net8.0\MulticastExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akbaraf18\Documents\Project\MulticastExercise\obj\Debug\net8.0\MulticastExercise.AssemblyInfoInputs.cache
+C:\Users\akbaraf18\Documents\Project\MulticastExercise\obj\Debug\net8.0\MulticastExercise.AssemblyInfo.cs
+C:\Users\akbaraf18\Documents\Project\MulticastExercise\obj\Debug\net8.0\MulticastExercise.csproj.CoreCompileInputs.cache
+C:\Users\akbaraf18\Documents\Project\MulticastExercise\obj\Debug\net8.0\MulticastExercise.sourcelink.json
+C:\Users\akbaraf18\Documents\Project\MulticastExercise\obj\Debug\net8.0\MulticastExercise.dll
+C:\Users\akbaraf18\Documents\Project\MulticastExercise\obj\Debug\net8.0\refint\MulticastExercise.dll
+C:\Users\akbaraf18\Documents\Project\MulticastExercise\obj\Debug\net8.0\MulticastExercise.pdb
+C:\Users\akbaraf18\Documents\Project\MulticastExercise\obj\Debug\net8.0\MulticastExercise.genruntimeconfig.cache
+C:\Users\akbaraf18\Documents\Project\MulticastExercise\obj\Debug\net8.0\ref\MulticastExercise.dll

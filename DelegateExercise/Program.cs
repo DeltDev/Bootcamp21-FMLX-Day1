@@ -112,7 +112,7 @@ Console.WriteLine($"Result: {op[items?[1]].Invoke(number1,number2)}");
 Func<int, int, int> multicast1 = Add;
 multicast1 += Multiply;
 multicast1 += Subtract;
-multicast1 -= Multiply;
+
 Console.WriteLine(multicast1.Invoke(9,8));
 Delegate[] multicastList = multicast1.GetInvocationList();
 foreach (var item in multicastList)
@@ -126,6 +126,7 @@ foreach (var item in multicastList)
 {
     Console.WriteLine(item.Method.Name);
 }
+
 //FAFO about Func lol
 Func<int,int,int> BinaryOperation2 = Add;
 Console.WriteLine(BinaryOperation2.Invoke(10, 20));

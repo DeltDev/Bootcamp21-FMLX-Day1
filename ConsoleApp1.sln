@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircularQueueExercise", "Ci
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateExercise", "DelegateExercise\DelegateExercise.csproj", "{E650F02C-CE20-456E-904F-91D197107A6E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MulticastExercise", "MulticastExercise\MulticastExercise.csproj", "{6D0D84D2-F959-47F5-BA95-3697053A88F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{E650F02C-CE20-456E-904F-91D197107A6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E650F02C-CE20-456E-904F-91D197107A6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E650F02C-CE20-456E-904F-91D197107A6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D0D84D2-F959-47F5-BA95-3697053A88F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D0D84D2-F959-47F5-BA95-3697053A88F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D0D84D2-F959-47F5-BA95-3697053A88F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D0D84D2-F959-47F5-BA95-3697053A88F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
