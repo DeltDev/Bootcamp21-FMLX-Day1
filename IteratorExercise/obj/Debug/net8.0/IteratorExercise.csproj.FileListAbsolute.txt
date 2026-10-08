@@ -1,0 +1,15 @@
+C:\Users\akbaraf18\Documents\Project\IteratorExercise\bin\Debug\net8.0\IteratorExercise.exe
+C:\Users\akbaraf18\Documents\Project\IteratorExercise\bin\Debug\net8.0\IteratorExercise.deps.json
+C:\Users\akbaraf18\Documents\Project\IteratorExercise\bin\Debug\net8.0\IteratorExercise.runtimeconfig.json
+C:\Users\akbaraf18\Documents\Project\IteratorExercise\bin\Debug\net8.0\IteratorExercise.dll
+C:\Users\akbaraf18\Documents\Project\IteratorExercise\bin\Debug\net8.0\IteratorExercise.pdb
+C:\Users\akbaraf18\Documents\Project\IteratorExercise\obj\Debug\net8.0\IteratorExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akbaraf18\Documents\Project\IteratorExercise\obj\Debug\net8.0\IteratorExercise.AssemblyInfoInputs.cache
+C:\Users\akbaraf18\Documents\Project\IteratorExercise\obj\Debug\net8.0\IteratorExercise.AssemblyInfo.cs
+C:\Users\akbaraf18\Documents\Project\IteratorExercise\obj\Debug\net8.0\IteratorExercise.csproj.CoreCompileInputs.cache
+C:\Users\akbaraf18\Documents\Project\IteratorExercise\obj\Debug\net8.0\IteratorExercise.sourcelink.json
+C:\Users\akbaraf18\Documents\Project\IteratorExercise\obj\Debug\net8.0\IteratorExercise.dll
+C:\Users\akbaraf18\Documents\Project\IteratorExercise\obj\Debug\net8.0\refint\IteratorExercise.dll
+C:\Users\akbaraf18\Documents\Project\IteratorExercise\obj\Debug\net8.0\IteratorExercise.pdb
+C:\Users\akbaraf18\Documents\Project\IteratorExercise\obj\Debug\net8.0\IteratorExercise.genruntimeconfig.cache
+C:\Users\akbaraf18\Documents\Project\IteratorExercise\obj\Debug\net8.0\ref\IteratorExercise.dll

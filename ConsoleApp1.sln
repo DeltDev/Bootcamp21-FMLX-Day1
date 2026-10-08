@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryCatchExceptions", "TryCa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorOverloading", "OperatorOverloading\OperatorOverloading.csproj", "{0E107721-6FB4-4316-AA69-5707F75B5552}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorExercise", "IteratorExercise\IteratorExercise.csproj", "{BF76DAD8-AA9F-4A18-9688-88EF3F5FEAB0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -96,5 +98,9 @@ Global
 		{0E107721-6FB4-4316-AA69-5707F75B5552}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E107721-6FB4-4316-AA69-5707F75B5552}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E107721-6FB4-4316-AA69-5707F75B5552}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF76DAD8-AA9F-4A18-9688-88EF3F5FEAB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF76DAD8-AA9F-4A18-9688-88EF3F5FEAB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF76DAD8-AA9F-4A18-9688-88EF3F5FEAB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF76DAD8-AA9F-4A18-9688-88EF3F5FEAB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
