@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MulticastExercise")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6109038b4c4ac5c4cfe559d178f7f0bcae2f73ff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d993cc3f57dcb33dca6d8b6c3764f1eae872167")]
 [assembly: System.Reflection.AssemblyProductAttribute("MulticastExercise")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MulticastExercise")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

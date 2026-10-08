@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FooBarExercise")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e66d0bc295f39a28837b563cc619c29b96290fd9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d993cc3f57dcb33dca6d8b6c3764f1eae872167")]
 [assembly: System.Reflection.AssemblyProductAttribute("FooBarExercise")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FooBarExercise")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
