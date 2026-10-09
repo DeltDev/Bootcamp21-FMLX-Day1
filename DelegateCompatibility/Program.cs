@@ -98,5 +98,7 @@ Dog result12 = puppyFunc();
 Puppy result16 = puppyFunc();
 delegate void D1();
 delegate void D2();
-delegate void StringAction(string s); //Contravariance: Berhasil compile jika dan hanya jika PARAMETER delegate lebih spesfik atau sama dengan PARAMETER method
-delegate object ObjectRetriever(); //Covariance: Berhasil compile jika dan hanya jika RETURN METHOD lebih spesifik dari atau sama dengan RETURN DELEGATE
+delegate void StringAction(string s); //Contravariance:
+                                      //Berhasil compile jika dan hanya jika PARAMETER delegate lebih spesfik atau sama dengan PARAMETER method
+delegate object ObjectRetriever(); //Covariance:
+                                   //Berhasil compile jika dan hanya jika RETURN METHOD lebih spesifik dari atau sama dengan RETURN DELEGATE

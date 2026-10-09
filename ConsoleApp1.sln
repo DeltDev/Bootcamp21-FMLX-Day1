@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorOverloading", "Oper
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorExercise", "IteratorExercise\IteratorExercise.csproj", "{BF76DAD8-AA9F-4A18-9688-88EF3F5FEAB0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameworkFundamentals", "FrameworkFundamentals\FrameworkFundamentals.csproj", "{0B681350-9B27-4BFB-9F41-627163F14506}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -102,5 +104,9 @@ Global
 		{BF76DAD8-AA9F-4A18-9688-88EF3F5FEAB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF76DAD8-AA9F-4A18-9688-88EF3F5FEAB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF76DAD8-AA9F-4A18-9688-88EF3F5FEAB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B681350-9B27-4BFB-9F41-627163F14506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B681350-9B27-4BFB-9F41-627163F14506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B681350-9B27-4BFB-9F41-627163F14506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B681350-9B27-4BFB-9F41-627163F14506}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
