@@ -1,0 +1,15 @@
+C:\Users\akbaraf18\Documents\Project\DelegateCompatibility\bin\Debug\net8.0\DelegateCompatibility.exe
+C:\Users\akbaraf18\Documents\Project\DelegateCompatibility\bin\Debug\net8.0\DelegateCompatibility.deps.json
+C:\Users\akbaraf18\Documents\Project\DelegateCompatibility\bin\Debug\net8.0\DelegateCompatibility.runtimeconfig.json
+C:\Users\akbaraf18\Documents\Project\DelegateCompatibility\bin\Debug\net8.0\DelegateCompatibility.dll
+C:\Users\akbaraf18\Documents\Project\DelegateCompatibility\bin\Debug\net8.0\DelegateCompatibility.pdb
+C:\Users\akbaraf18\Documents\Project\DelegateCompatibility\obj\Debug\net8.0\DelegateCompatibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akbaraf18\Documents\Project\DelegateCompatibility\obj\Debug\net8.0\DelegateCompatibility.AssemblyInfoInputs.cache
+C:\Users\akbaraf18\Documents\Project\DelegateCompatibility\obj\Debug\net8.0\DelegateCompatibility.AssemblyInfo.cs
+C:\Users\akbaraf18\Documents\Project\DelegateCompatibility\obj\Debug\net8.0\DelegateCompatibility.csproj.CoreCompileInputs.cache
+C:\Users\akbaraf18\Documents\Project\DelegateCompatibility\obj\Debug\net8.0\DelegateCompatibility.sourcelink.json
+C:\Users\akbaraf18\Documents\Project\DelegateCompatibility\obj\Debug\net8.0\DelegateCompatibility.dll
+C:\Users\akbaraf18\Documents\Project\DelegateCompatibility\obj\Debug\net8.0\refint\DelegateCompatibility.dll
+C:\Users\akbaraf18\Documents\Project\DelegateCompatibility\obj\Debug\net8.0\DelegateCompatibility.pdb
+C:\Users\akbaraf18\Documents\Project\DelegateCompatibility\obj\Debug\net8.0\DelegateCompatibility.genruntimeconfig.cache
+C:\Users\akbaraf18\Documents\Project\DelegateCompatibility\obj\Debug\net8.0\ref\DelegateCompatibility.dll

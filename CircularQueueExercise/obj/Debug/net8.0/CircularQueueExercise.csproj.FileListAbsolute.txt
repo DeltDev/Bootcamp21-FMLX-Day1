@@ -1,0 +1,15 @@
+C:\Users\akbaraf18\Documents\Project\CircularQueueExercise\bin\Debug\net8.0\CircularQueueExercise.exe
+C:\Users\akbaraf18\Documents\Project\CircularQueueExercise\bin\Debug\net8.0\CircularQueueExercise.deps.json
+C:\Users\akbaraf18\Documents\Project\CircularQueueExercise\bin\Debug\net8.0\CircularQueueExercise.runtimeconfig.json
+C:\Users\akbaraf18\Documents\Project\CircularQueueExercise\bin\Debug\net8.0\CircularQueueExercise.dll
+C:\Users\akbaraf18\Documents\Project\CircularQueueExercise\bin\Debug\net8.0\CircularQueueExercise.pdb
+C:\Users\akbaraf18\Documents\Project\CircularQueueExercise\obj\Debug\net8.0\CircularQueueExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akbaraf18\Documents\Project\CircularQueueExercise\obj\Debug\net8.0\CircularQueueExercise.AssemblyInfoInputs.cache
+C:\Users\akbaraf18\Documents\Project\CircularQueueExercise\obj\Debug\net8.0\CircularQueueExercise.AssemblyInfo.cs
+C:\Users\akbaraf18\Documents\Project\CircularQueueExercise\obj\Debug\net8.0\CircularQueueExercise.csproj.CoreCompileInputs.cache
+C:\Users\akbaraf18\Documents\Project\CircularQueueExercise\obj\Debug\net8.0\CircularQueueExercise.sourcelink.json
+C:\Users\akbaraf18\Documents\Project\CircularQueueExercise\obj\Debug\net8.0\CircularQueueExercise.dll
+C:\Users\akbaraf18\Documents\Project\CircularQueueExercise\obj\Debug\net8.0\refint\CircularQueueExercise.dll
+C:\Users\akbaraf18\Documents\Project\CircularQueueExercise\obj\Debug\net8.0\CircularQueueExercise.pdb
+C:\Users\akbaraf18\Documents\Project\CircularQueueExercise\obj\Debug\net8.0\CircularQueueExercise.genruntimeconfig.cache
+C:\Users\akbaraf18\Documents\Project\CircularQueueExercise\obj\Debug\net8.0\ref\CircularQueueExercise.dll
