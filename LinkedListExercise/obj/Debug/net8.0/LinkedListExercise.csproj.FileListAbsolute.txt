@@ -1,0 +1,15 @@
+C:\Users\akbaraf18\Documents\Project\LinkedListExercise\bin\Debug\net8.0\LinkedListExercise.exe
+C:\Users\akbaraf18\Documents\Project\LinkedListExercise\bin\Debug\net8.0\LinkedListExercise.deps.json
+C:\Users\akbaraf18\Documents\Project\LinkedListExercise\bin\Debug\net8.0\LinkedListExercise.runtimeconfig.json
+C:\Users\akbaraf18\Documents\Project\LinkedListExercise\bin\Debug\net8.0\LinkedListExercise.dll
+C:\Users\akbaraf18\Documents\Project\LinkedListExercise\bin\Debug\net8.0\LinkedListExercise.pdb
+C:\Users\akbaraf18\Documents\Project\LinkedListExercise\obj\Debug\net8.0\LinkedListExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akbaraf18\Documents\Project\LinkedListExercise\obj\Debug\net8.0\LinkedListExercise.AssemblyInfoInputs.cache
+C:\Users\akbaraf18\Documents\Project\LinkedListExercise\obj\Debug\net8.0\LinkedListExercise.AssemblyInfo.cs
+C:\Users\akbaraf18\Documents\Project\LinkedListExercise\obj\Debug\net8.0\LinkedListExercise.csproj.CoreCompileInputs.cache
+C:\Users\akbaraf18\Documents\Project\LinkedListExercise\obj\Debug\net8.0\LinkedListExercise.sourcelink.json
+C:\Users\akbaraf18\Documents\Project\LinkedListExercise\obj\Debug\net8.0\LinkedListExercise.dll
+C:\Users\akbaraf18\Documents\Project\LinkedListExercise\obj\Debug\net8.0\refint\LinkedListExercise.dll
+C:\Users\akbaraf18\Documents\Project\LinkedListExercise\obj\Debug\net8.0\LinkedListExercise.pdb
+C:\Users\akbaraf18\Documents\Project\LinkedListExercise\obj\Debug\net8.0\LinkedListExercise.genruntimeconfig.cache
+C:\Users\akbaraf18\Documents\Project\LinkedListExercise\obj\Debug\net8.0\ref\LinkedListExercise.dll

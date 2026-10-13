@@ -1,0 +1,15 @@
+C:\Users\akbaraf18\Documents\Project\EventExercise\bin\Debug\net8.0\EventExercise.exe
+C:\Users\akbaraf18\Documents\Project\EventExercise\bin\Debug\net8.0\EventExercise.deps.json
+C:\Users\akbaraf18\Documents\Project\EventExercise\bin\Debug\net8.0\EventExercise.runtimeconfig.json
+C:\Users\akbaraf18\Documents\Project\EventExercise\bin\Debug\net8.0\EventExercise.dll
+C:\Users\akbaraf18\Documents\Project\EventExercise\bin\Debug\net8.0\EventExercise.pdb
+C:\Users\akbaraf18\Documents\Project\EventExercise\obj\Debug\net8.0\EventExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akbaraf18\Documents\Project\EventExercise\obj\Debug\net8.0\EventExercise.AssemblyInfoInputs.cache
+C:\Users\akbaraf18\Documents\Project\EventExercise\obj\Debug\net8.0\EventExercise.AssemblyInfo.cs
+C:\Users\akbaraf18\Documents\Project\EventExercise\obj\Debug\net8.0\EventExercise.csproj.CoreCompileInputs.cache
+C:\Users\akbaraf18\Documents\Project\EventExercise\obj\Debug\net8.0\EventExercise.sourcelink.json
+C:\Users\akbaraf18\Documents\Project\EventExercise\obj\Debug\net8.0\EventExercise.dll
+C:\Users\akbaraf18\Documents\Project\EventExercise\obj\Debug\net8.0\refint\EventExercise.dll
+C:\Users\akbaraf18\Documents\Project\EventExercise\obj\Debug\net8.0\EventExercise.pdb
+C:\Users\akbaraf18\Documents\Project\EventExercise\obj\Debug\net8.0\EventExercise.genruntimeconfig.cache
+C:\Users\akbaraf18\Documents\Project\EventExercise\obj\Debug\net8.0\ref\EventExercise.dll
