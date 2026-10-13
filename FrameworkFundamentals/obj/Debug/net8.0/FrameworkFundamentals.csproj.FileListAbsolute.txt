@@ -1,0 +1,15 @@
+C:\Users\akbaraf18\Documents\Project\FrameworkFundamentals\bin\Debug\net8.0\FrameworkFundamentals.exe
+C:\Users\akbaraf18\Documents\Project\FrameworkFundamentals\bin\Debug\net8.0\FrameworkFundamentals.deps.json
+C:\Users\akbaraf18\Documents\Project\FrameworkFundamentals\bin\Debug\net8.0\FrameworkFundamentals.runtimeconfig.json
+C:\Users\akbaraf18\Documents\Project\FrameworkFundamentals\bin\Debug\net8.0\FrameworkFundamentals.dll
+C:\Users\akbaraf18\Documents\Project\FrameworkFundamentals\bin\Debug\net8.0\FrameworkFundamentals.pdb
+C:\Users\akbaraf18\Documents\Project\FrameworkFundamentals\obj\Debug\net8.0\FrameworkFundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akbaraf18\Documents\Project\FrameworkFundamentals\obj\Debug\net8.0\FrameworkFundamentals.AssemblyInfoInputs.cache
+C:\Users\akbaraf18\Documents\Project\FrameworkFundamentals\obj\Debug\net8.0\FrameworkFundamentals.AssemblyInfo.cs
+C:\Users\akbaraf18\Documents\Project\FrameworkFundamentals\obj\Debug\net8.0\FrameworkFundamentals.csproj.CoreCompileInputs.cache
+C:\Users\akbaraf18\Documents\Project\FrameworkFundamentals\obj\Debug\net8.0\FrameworkFundamentals.sourcelink.json
+C:\Users\akbaraf18\Documents\Project\FrameworkFundamentals\obj\Debug\net8.0\FrameworkFundamentals.dll
+C:\Users\akbaraf18\Documents\Project\FrameworkFundamentals\obj\Debug\net8.0\refint\FrameworkFundamentals.dll
+C:\Users\akbaraf18\Documents\Project\FrameworkFundamentals\obj\Debug\net8.0\FrameworkFundamentals.pdb
+C:\Users\akbaraf18\Documents\Project\FrameworkFundamentals\obj\Debug\net8.0\FrameworkFundamentals.genruntimeconfig.cache
+C:\Users\akbaraf18\Documents\Project\FrameworkFundamentals\obj\Debug\net8.0\ref\FrameworkFundamentals.dll
