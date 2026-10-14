@@ -35,14 +35,5 @@ CustomStringStack customStringStack = new CustomStringStack();
 
 customStringStack.Type("foo");
 customStringStack.Type("bar");
-customStringStack.Type("foo");
-customStringStack.Type("bar");
-customStringStack.Type("foo");
-customStringStack.Type("bar");
-customStringStack.Type("foo");
-customStringStack.Type("bar");
-customStringStack.Type("foo");
-customStringStack.Type("bar");
-customStringStack.Undo();
 customStringStack.Undo();
 customStringStack.Undo();
