@@ -37,7 +37,8 @@ foreach (string w in s.Words)
 }
 
 StaticConstructorClass c =  new StaticConstructorClass();
-
+StaticConstructorClass c2 = new StaticConstructorClass();
+StaticConstructorClass c3 = new StaticConstructorClass();
 //Inheritance
 
 Cat tasque = new Cat();
@@ -86,6 +87,15 @@ else
 
 NameDisplayer.DisplayName(animal3);
 NameDisplayer.DisplayName((dynamic) animal3);
+
+VenusTrap venusTrap = new VenusTrap();
+
+
+A a = new B();
+Console.WriteLine(a.Counter); // Output: 1 (A.Counter is accessed because 'a' is of type A)
+
+B b = new B();
+Console.WriteLine(b.Counter);
 internal static class Test
 {
     public static void Method1()
@@ -96,6 +106,7 @@ internal static class Test
 
 class Rectangle
 {
+
     public float Width, Height;
 
     public Rectangle()
@@ -220,7 +231,18 @@ class NameDisplayer
     }
 }
 
-// class VenusTrap : Animal, Plant
-// {
-//     
-// }
+class VenusTrap : Plant
+{
+    public override void Photosynthesis()
+    {
+        Console.WriteLine("mitochondria is the powerhouse of the cell");
+    }
+
+    ~VenusTrap()
+    {
+        System.Diagnostics.Trace.WriteLine("Venus trap dead");
+    }
+}
+
+public class A      { public int Counter = 1; }
+public class B : A  { public int Counter = 2; } // B.Counter hides A.Counter
