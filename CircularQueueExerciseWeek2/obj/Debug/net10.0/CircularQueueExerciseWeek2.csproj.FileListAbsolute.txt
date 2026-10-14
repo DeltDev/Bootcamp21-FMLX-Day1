@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Bootcamp21-FMLX-Day1\CircularQueueExerciseWeek2\bin\Debug\net10.0\CircularQueueExerciseWeek2.exe
+C:\Users\Lenovo\Desktop\Bootcamp21-FMLX-Day1\CircularQueueExerciseWeek2\bin\Debug\net10.0\CircularQueueExerciseWeek2.deps.json
+C:\Users\Lenovo\Desktop\Bootcamp21-FMLX-Day1\CircularQueueExerciseWeek2\bin\Debug\net10.0\CircularQueueExerciseWeek2.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Bootcamp21-FMLX-Day1\CircularQueueExerciseWeek2\bin\Debug\net10.0\CircularQueueExerciseWeek2.dll
+C:\Users\Lenovo\Desktop\Bootcamp21-FMLX-Day1\CircularQueueExerciseWeek2\bin\Debug\net10.0\CircularQueueExerciseWeek2.pdb
+C:\Users\Lenovo\Desktop\Bootcamp21-FMLX-Day1\CircularQueueExerciseWeek2\obj\Debug\net10.0\CircularQueueExerciseWeek2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Bootcamp21-FMLX-Day1\CircularQueueExerciseWeek2\obj\Debug\net10.0\CircularQueueExerciseWeek2.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Bootcamp21-FMLX-Day1\CircularQueueExerciseWeek2\obj\Debug\net10.0\CircularQueueExerciseWeek2.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Bootcamp21-FMLX-Day1\CircularQueueExerciseWeek2\obj\Debug\net10.0\CircularQueueExerciseWeek2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Bootcamp21-FMLX-Day1\CircularQueueExerciseWeek2\obj\Debug\net10.0\CircularQueueExerciseWeek2.sourcelink.json
+C:\Users\Lenovo\Desktop\Bootcamp21-FMLX-Day1\CircularQueueExerciseWeek2\obj\Debug\net10.0\CircularQueueExerciseWeek2.dll
+C:\Users\Lenovo\Desktop\Bootcamp21-FMLX-Day1\CircularQueueExerciseWeek2\obj\Debug\net10.0\refint\CircularQueueExerciseWeek2.dll
+C:\Users\Lenovo\Desktop\Bootcamp21-FMLX-Day1\CircularQueueExerciseWeek2\obj\Debug\net10.0\CircularQueueExerciseWeek2.pdb
+C:\Users\Lenovo\Desktop\Bootcamp21-FMLX-Day1\CircularQueueExerciseWeek2\obj\Debug\net10.0\CircularQueueExerciseWeek2.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Bootcamp21-FMLX-Day1\CircularQueueExerciseWeek2\obj\Debug\net10.0\ref\CircularQueueExerciseWeek2.dll

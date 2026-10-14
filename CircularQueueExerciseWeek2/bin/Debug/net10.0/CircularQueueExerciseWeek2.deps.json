@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "CircularQueueExerciseWeek2/1.0.0": {
+        "runtime": {
+          "CircularQueueExerciseWeek2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CircularQueueExerciseWeek2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
