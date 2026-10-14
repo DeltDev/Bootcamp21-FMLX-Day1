@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CircularQueueExercise")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13802380f2cce36ee0c113d532edb6b80cd07178")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e25c5d58d31823db12a9856784c1e1e4eb2a9ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("CircularQueueExercise")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CircularQueueExercise")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
