@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\TryCatchExceptions\\TryCatchExceptions.csproj": {}
+    "C:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\TryCatchExceptions\\TryCatchExceptions.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\TryCatchExceptions\\TryCatchExceptions.csproj": {
+    "C:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\TryCatchExceptions\\TryCatchExceptions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\TryCatchExceptions\\TryCatchExceptions.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\TryCatchExceptions\\TryCatchExceptions.csproj",
         "projectName": "TryCatchExceptions",
-        "projectPath": "c:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\TryCatchExceptions\\TryCatchExceptions.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\TryCatchExceptions\\TryCatchExceptions.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\TryCatchExceptions\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\TryCatchExceptions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
