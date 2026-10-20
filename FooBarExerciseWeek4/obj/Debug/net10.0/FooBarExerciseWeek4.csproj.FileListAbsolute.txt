@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Bootcamp21-FMLX-Day1\FooBarExerciseWeek4\bin\Debug\net10.0\FooBarExerciseWeek4.exe
+C:\Users\Lenovo\Desktop\Bootcamp21-FMLX-Day1\FooBarExerciseWeek4\bin\Debug\net10.0\FooBarExerciseWeek4.dll
+C:\Users\Lenovo\Desktop\Bootcamp21-FMLX-Day1\FooBarExerciseWeek4\bin\Debug\net10.0\FooBarExerciseWeek4.deps.json
+C:\Users\Lenovo\Desktop\Bootcamp21-FMLX-Day1\FooBarExerciseWeek4\bin\Debug\net10.0\FooBarExerciseWeek4.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Bootcamp21-FMLX-Day1\FooBarExerciseWeek4\bin\Debug\net10.0\FooBarExerciseWeek4.pdb
+C:\Users\Lenovo\Desktop\Bootcamp21-FMLX-Day1\FooBarExerciseWeek4\obj\Debug\net10.0\FooBarExerciseWeek4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Bootcamp21-FMLX-Day1\FooBarExerciseWeek4\obj\Debug\net10.0\FooBarExerciseWeek4.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Bootcamp21-FMLX-Day1\FooBarExerciseWeek4\obj\Debug\net10.0\FooBarExerciseWeek4.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Bootcamp21-FMLX-Day1\FooBarExerciseWeek4\obj\Debug\net10.0\FooBarExerciseWeek4.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Bootcamp21-FMLX-Day1\FooBarExerciseWeek4\obj\Debug\net10.0\FooBarExerciseWeek4.sourcelink.json
+C:\Users\Lenovo\Desktop\Bootcamp21-FMLX-Day1\FooBarExerciseWeek4\obj\Debug\net10.0\FooBarExerciseWeek4.dll
+C:\Users\Lenovo\Desktop\Bootcamp21-FMLX-Day1\FooBarExerciseWeek4\obj\Debug\net10.0\refint\FooBarExerciseWeek4.dll
+C:\Users\Lenovo\Desktop\Bootcamp21-FMLX-Day1\FooBarExerciseWeek4\obj\Debug\net10.0\FooBarExerciseWeek4.pdb
+C:\Users\Lenovo\Desktop\Bootcamp21-FMLX-Day1\FooBarExerciseWeek4\obj\Debug\net10.0\FooBarExerciseWeek4.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Bootcamp21-FMLX-Day1\FooBarExerciseWeek4\obj\Debug\net10.0\ref\FooBarExerciseWeek4.dll
