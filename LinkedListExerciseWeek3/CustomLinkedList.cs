@@ -1,90 +1,101 @@
 namespace LinkedListExercise;
 
-public class CustomLinkedList
+internal class CustomLinkedList
 {
-    public int? value { get; set; }
-    public CustomLinkedList? next { get; set; }
-
-    private Func<int,bool>? _printFilterRule;
-    private Func<int,int,int>? _sortComparer;
+    public int? Value { get; set; }
+    public CustomLinkedList? Next { get; set; }
+    public CustomLinkedList? Previous {get; set;}
+    public CustomLinkedList? First {get; set;}
     public CustomLinkedList()
     {
-        this.value = null;
-        this.next = null;
+        this.Value = null;
+        this.Next = null;
+        this.Previous = null;
+        this.First = this;
     }
-    public CustomLinkedList(int value)
+    public CustomLinkedList(int value, CustomLinkedList? previous)
     {
-        this.value = value;
-        this.next = null;
+        this.Value = value;
+        this.Next = null;
+        this.Previous = previous;
     }
 
-    public void Append(int value)
+    public CustomLinkedList(int value){
+        this.Value = value;
+        this.Next = null;
+        this.Previous = null;
+
+    }
+
+    public void Insert(int value)
     {
-        Console.WriteLine($"Appended {value}");
-        if (this.value == null)
+        Console.WriteLine($"Inserted {value}");
+        CustomLinkedList newNode = new CustomLinkedList(value);
+        if (this.First.Value == null)
         {
-            this.value = value;
+            this.First = newNode;
             return;
         }
-        CustomLinkedList newNode = new CustomLinkedList(value);
-        CustomLinkedList currentNode = this;
-
-        while (currentNode.next != null)
+        
+        CustomLinkedList? currentNode = this.First;
+        CustomLinkedList? previousNode = null;
+        while (currentNode != null && newNode.Value > currentNode.Value )
         {
-            currentNode = currentNode.next;
+            Console.WriteLine($"current value {currentNode?.Value}");
+            previousNode = currentNode;
+            currentNode = currentNode.Next;
+            
         }
         
-        currentNode.next = newNode;
+        if (previousNode == null)
+        {
+            newNode.Next = this.First;
+            this.First = newNode;
+        }
+        else
+        {
+            newNode.Next = previousNode.Next;
+            previousNode.Next = newNode;
+        }
+        
     }
 
     public void Print()
     {
-        Console.Write($"Sequence: ");
-        CustomLinkedList? currentNode = this;
+        Console.Write("Sequence: ");
+        CustomLinkedList? currentNode = this.First;
         while (currentNode != null)
         {
-            if(_printFilterRule(currentNode.value.Value)){
-                currentNode = currentNode.next;
-                continue;
-            }
-            Console.Write(currentNode.value);
-            if (currentNode.next != null)
+            Console.Write(currentNode.Value);
+            if (currentNode.Next != null)
             {
                 Console.Write(" -> ");
             }
-            currentNode = currentNode.next;
+            currentNode = currentNode.Next;
         }
         
         Console.WriteLine();
     }
 
-    public void AddFilter(Func<int,bool> filterRule){
-        _printFilterRule = filterRule;
-    }
-
-    public void SetSorting(Func<int,int,int> comparer){
-        _sortComparer = comparer;
-    }
-
-    public void Sort(){
-        List<int> values = new();
-        CustomLinkedList currentNode = this;
-        while (currentNode != null)
-        {
-            values.Add(currentNode.value.Value);
-            currentNode = currentNode.next;
+    public void PrintReverse(){
+        Console.Write("Reversed: ");
+        CustomLinkedList? currentNode = this;
+        CustomLinkedList? lastNode = null;
+        while(currentNode.Next != null){
+            currentNode = currentNode.Next;
         }
 
-        values.Sort((a,b) => _sortComparer(a,b));
-
-        currentNode = this;
-        int idx = 0;
-        while (currentNode != null && idx<values.Count)
-        {
-            currentNode.value = values[idx];
-            idx++;
-            currentNode = currentNode.next;
+        lastNode = currentNode;
+        while(lastNode != null){
+            Console.Write(lastNode.Value);
+            if(lastNode.Previous != null){
+                Console.Write(" <- ");
+            }
+            lastNode = lastNode.Previous;
         }
+
+        Console.WriteLine();
     }
+
 }
 
