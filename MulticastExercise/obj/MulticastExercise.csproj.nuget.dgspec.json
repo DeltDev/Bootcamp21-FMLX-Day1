@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\MulticastExercise\\MulticastExercise.csproj": {}
+    "C:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\MulticastExercise\\MulticastExercise.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\MulticastExercise\\MulticastExercise.csproj": {
+    "C:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\MulticastExercise\\MulticastExercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\MulticastExercise\\MulticastExercise.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\MulticastExercise\\MulticastExercise.csproj",
         "projectName": "MulticastExercise",
-        "projectPath": "c:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\MulticastExercise\\MulticastExercise.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\MulticastExercise\\MulticastExercise.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\MulticastExercise\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\MulticastExercise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"

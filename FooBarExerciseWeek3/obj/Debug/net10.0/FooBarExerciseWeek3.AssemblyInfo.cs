@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FooBarExerciseWeek3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+490d098cb82455a7ee1d5b0b08eb33ea3774fe95")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf2f539b90715c8dc798b450bc928c15f28f6f8a")]
 [assembly: System.Reflection.AssemblyProductAttribute("FooBarExerciseWeek3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FooBarExerciseWeek3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

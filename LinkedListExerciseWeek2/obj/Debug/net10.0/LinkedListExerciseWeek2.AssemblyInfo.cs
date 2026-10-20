@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LinkedListExerciseWeek2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b77e166b472c3c03fc8da3e5e9a925b6cd517928")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf2f539b90715c8dc798b450bc928c15f28f6f8a")]
 [assembly: System.Reflection.AssemblyProductAttribute("LinkedListExerciseWeek2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LinkedListExerciseWeek2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
