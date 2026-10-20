@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Bootcamp21-FMLX-Day1\LinkedListExerciseWeek4\bin\Debug\net10.0\LinkedListExerciseWeek4.exe
+C:\Users\Lenovo\Desktop\Bootcamp21-FMLX-Day1\LinkedListExerciseWeek4\bin\Debug\net10.0\LinkedListExerciseWeek4.deps.json
+C:\Users\Lenovo\Desktop\Bootcamp21-FMLX-Day1\LinkedListExerciseWeek4\bin\Debug\net10.0\LinkedListExerciseWeek4.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Bootcamp21-FMLX-Day1\LinkedListExerciseWeek4\bin\Debug\net10.0\LinkedListExerciseWeek4.dll
+C:\Users\Lenovo\Desktop\Bootcamp21-FMLX-Day1\LinkedListExerciseWeek4\bin\Debug\net10.0\LinkedListExerciseWeek4.pdb
+C:\Users\Lenovo\Desktop\Bootcamp21-FMLX-Day1\LinkedListExerciseWeek4\obj\Debug\net10.0\LinkedListExerciseWeek4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Bootcamp21-FMLX-Day1\LinkedListExerciseWeek4\obj\Debug\net10.0\LinkedListExerciseWeek4.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Bootcamp21-FMLX-Day1\LinkedListExerciseWeek4\obj\Debug\net10.0\LinkedListExerciseWeek4.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Bootcamp21-FMLX-Day1\LinkedListExerciseWeek4\obj\Debug\net10.0\LinkedListExerciseWeek4.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Bootcamp21-FMLX-Day1\LinkedListExerciseWeek4\obj\Debug\net10.0\LinkedListExerciseWeek4.sourcelink.json
+C:\Users\Lenovo\Desktop\Bootcamp21-FMLX-Day1\LinkedListExerciseWeek4\obj\Debug\net10.0\LinkedListExerciseWeek4.dll
+C:\Users\Lenovo\Desktop\Bootcamp21-FMLX-Day1\LinkedListExerciseWeek4\obj\Debug\net10.0\refint\LinkedListExerciseWeek4.dll
+C:\Users\Lenovo\Desktop\Bootcamp21-FMLX-Day1\LinkedListExerciseWeek4\obj\Debug\net10.0\LinkedListExerciseWeek4.pdb
+C:\Users\Lenovo\Desktop\Bootcamp21-FMLX-Day1\LinkedListExerciseWeek4\obj\Debug\net10.0\LinkedListExerciseWeek4.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Bootcamp21-FMLX-Day1\LinkedListExerciseWeek4\obj\Debug\net10.0\ref\LinkedListExerciseWeek4.dll
