@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\ClassExercise\\ClassExercise.csproj": {}
+    "C:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\ClassExercise\\ClassExercise.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\ClassExercise\\ClassExercise.csproj": {
+    "C:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\ClassExercise\\ClassExercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\ClassExercise\\ClassExercise.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\ClassExercise\\ClassExercise.csproj",
         "projectName": "ClassExercise",
-        "projectPath": "c:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\ClassExercise\\ClassExercise.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\ClassExercise\\ClassExercise.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\ClassExercise\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\ClassExercise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"

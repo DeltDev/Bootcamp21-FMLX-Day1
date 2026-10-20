@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\QueueExercise\\QueueExercise.csproj": {}
+    "C:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\QueueExercise\\QueueExercise.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\QueueExercise\\QueueExercise.csproj": {
+    "C:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\QueueExercise\\QueueExercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\QueueExercise\\QueueExercise.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\QueueExercise\\QueueExercise.csproj",
         "projectName": "QueueExercise",
-        "projectPath": "c:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\QueueExercise\\QueueExercise.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\QueueExercise\\QueueExercise.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\QueueExercise\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\QueueExercise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
