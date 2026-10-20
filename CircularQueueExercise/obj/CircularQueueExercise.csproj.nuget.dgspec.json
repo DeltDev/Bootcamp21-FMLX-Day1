@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\CircularQueueExercise\\CircularQueueExercise.csproj": {}
+    "C:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\CircularQueueExercise\\CircularQueueExercise.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\CircularQueueExercise\\CircularQueueExercise.csproj": {
+    "C:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\CircularQueueExercise\\CircularQueueExercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\CircularQueueExercise\\CircularQueueExercise.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\CircularQueueExercise\\CircularQueueExercise.csproj",
         "projectName": "CircularQueueExercise",
-        "projectPath": "c:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\CircularQueueExercise\\CircularQueueExercise.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\CircularQueueExercise\\CircularQueueExercise.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\CircularQueueExercise\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\Bootcamp21-FMLX-Day1\\CircularQueueExercise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"

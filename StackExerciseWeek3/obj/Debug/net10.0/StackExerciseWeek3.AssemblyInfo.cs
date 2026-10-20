@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StackExerciseWeek3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa5c38123b65d3135b11dea09ebbc2b691d79daf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55e164097b8709885ee584b708e258fc86b8c890")]
 [assembly: System.Reflection.AssemblyProductAttribute("StackExerciseWeek3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StackExerciseWeek3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
